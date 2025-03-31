@@ -13,3 +13,8 @@
 #download3{height: 70px ;width: 380px; border: 2px solid black; float: left; margin-left: 10px;background-image: url('tlo.jpg'); text-align: center; font-size: 200%; color: rgb(20, 13, 227); padding-top: 20px; text-decoration: none; }
 #dekoracja{text-decoration: none; color: rgb(20, 13, 227);}
 #powrot{height: 40px; width: 1180px; clear: both; border: 2px solid black; margin-bottom: 10px; text-align: center;background-image: url('tlo.jpg'); padding-top:10px; font-size: 25px; margin-left: 10px; margin-right: 10px;color: rgb(20, 13, 227);}
+#pudlocss{height: 1175px;width: 1200px;  border: 2px solid black; margin: auto; background-color: white;}
+#info3{height: 370px; width:580px; border: 2px solid black; float: left; margin-left: 10px; text-align: center; color: rgb(20, 13, 227); font-size: 150%; background-color: gray; margin-top: 10px; margin-bottom: 10px;}
+
+#info4{height: 390px; width:780px; border: 2px solid black; float: left; margin-left: 10px; text-align: center; color: rgb(20, 13, 227); font-size: 150%; background-color: gray;}
+#info5{height: 390px; width:380px; border: 2px solid black; float:right; margin-right: 10px; margin-bottom: 10px; text-align: center; color: rgb(20, 13, 227); font-size: 150%; background-color: gray;}
